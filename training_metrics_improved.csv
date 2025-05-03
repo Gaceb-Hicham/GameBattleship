@@ -1,0 +1,2 @@
+Episode,Total Reward,Steps,Hits,Sunk Ships,Misses,Hit Rate,Q-Table Size,Consecutive Hits,Max Consecutive Hits Ship 1,Max Consecutive Hits Ship 2,Max Consecutive Hits Ship 3,Max Consecutive Hits Ship 4,Max Consecutive Hits Ship 5,Max Consecutive Hits Ship 6
+1,35.59999999999964,315,24,4,52,0.0761904761904762,144448,4,1,1,1,1,1,3
